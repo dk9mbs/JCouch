@@ -1,0 +1,3 @@
+# JCouch
+
+CouchDB testing Project.
